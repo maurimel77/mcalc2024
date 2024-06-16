@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mcalc2024/static/css/main.6d461f2b.css",
+    "main.js": "/mcalc2024/static/js/main.2c281536.js",
+    "index.html": "/mcalc2024/index.html",
+    "main.6d461f2b.css.map": "/mcalc2024/static/css/main.6d461f2b.css.map",
+    "main.2c281536.js.map": "/mcalc2024/static/js/main.2c281536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d461f2b.css",
+    "static/js/main.2c281536.js"
+  ]
+}
